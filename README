@@ -1,0 +1,12 @@
+A C++ implementation of Tic-Tac-Toe!
+_______________________________________________________________________
+To compile:
+make
+
+- The will add the executable in the ./bin/ folder.
+
+To clean:
+make clean
+_______________________________________________________________________
+To do:
+- Add AI (various difficulties from easy to unbeatable)

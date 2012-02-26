@@ -39,7 +39,7 @@ int main (int argc, char * const argv[]) {
 		do {
 			cout << "Would you like a rematch? (y/n): ";
 			cin >> input;
-			for (int i = 0; i < input.length(); i++) {
+			for (unsigned int i = 0; i < input.length(); i++) {
 				input.at(i) = tolower(input.at(i));
 			}
 			if (input == "y" || input == "yes") {

@@ -3,10 +3,12 @@ _______________________________________________________________________
 To compile:
 make
 
-- The will add the executable in the ./bin/ folder.
+- This 'make' command will add the executable in the ./bin/ folder.
 
 To clean:
 make clean
+
+- This 'make clean' command will remove all compiled files.
 _______________________________________________________________________
 To do:
 - Add AI (various difficulties from easy to unbeatable)
